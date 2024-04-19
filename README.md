@@ -21,8 +21,8 @@ Pixel Play is a 2D sandbox game inspired by popular titles like Minecraft and Te
 - **IDE:** Visual Studio
 
 ## Getting Started
-Play Online -> 
------OR-------
+Play Online -> https://jtrs24.github.io/project_pix/ </br>
+Or
 1. Clone the repository to your local machine.
 2. Open the project in Unity or your preferred IDE.
 3. Build and run the game to start your adventure in Pixel Play!
